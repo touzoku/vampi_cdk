@@ -1,0 +1,25 @@
+{
+  "name": "vampi_waf",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest",
+    "cdk": "cdk"
+  },
+  "devDependencies": {
+    "@types/jest": "29.5.0",
+    "@types/node": "18.15.3",
+    "@types/source-map-support": "0.5.6",
+    "aws-cdk": "2.69.0",
+    "jest": "29.5.0",
+    "rome": "11.0.0",
+    "sucrase": "3.29.0",
+    "ts-jest": "29.0.5",
+    "ts-node": "10.9.1",
+    "typescript": "5.0.2"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "2.69.0",
+    "constructs": "10.1.281",
+    "source-map-support": "0.5.21"
+  }
+}
